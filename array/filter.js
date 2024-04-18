@@ -1,0 +1,1 @@
+const filterArr = (arr,condition) => arr.filter(condition)
